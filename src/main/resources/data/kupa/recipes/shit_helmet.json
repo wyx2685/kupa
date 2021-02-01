@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "kupa:shit_brick"
+    }
+  },
+  "result": {
+    "item": "kupa:shit_helmet",
+    "count": 1
+  }
+}

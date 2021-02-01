@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east,water=0":{"model":"kupa:block/toilet_model0","y": 270},
+    "facing=north,water=0":{"model":"kupa:block/toilet_model0","y": 180},
+    "facing=south,water=0":{"model":"kupa:block/toilet_model0"},
+    "facing=west,water=0":{"model":"kupa:block/toilet_model0","y": 90},
+
+    "facing=east,water=1":{"model":"kupa:block/toilet_model1","y": 270},
+    "facing=north,water=1":{"model":"kupa:block/toilet_model1","y": 180},
+    "facing=south,water=1":{"model":"kupa:block/toilet_model1"},
+    "facing=west,water=1":{"model":"kupa:block/toilet_model1","y": 90},
+
+    "facing=east,water=2":{"model":"kupa:block/toilet_model2","y": 270},
+    "facing=north,water=2":{"model":"kupa:block/toilet_model2","y": 180},
+    "facing=south,water=2":{"model":"kupa:block/toilet_model2"},
+    "facing=west,water=2":{"model":"kupa:block/toilet_model2","y": 90},
+
+    "facing=east,water=3":{"model":"kupa:block/toilet_model3","y": 270},
+    "facing=north,water=3":{"model":"kupa:block/toilet_model3","y": 180},
+    "facing=south,water=3":{"model":"kupa:block/toilet_model3"},
+    "facing=west,water=3":{"model":"kupa:block/toilet_model3","y": 90}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "itemGroup.Kupa": "翔の世界",
+  "item.kupa.toilet_paper": "厕纸",
+  "item.kupa.shit_paper":"厕纸（污）",
+  "item.kupa.shit_brick":"翔片",
+  "item.kupa.shit_sword": "翔剑",
+  "item.kupa.shit_shovel": "翔铲",
+  "item.kupa.shit_pickaxe": "翔镐",
+  "item.kupa.shit_hoe": "翔锄",
+  "item.kupa.shit_axe": "翔斧",
+  "item.kupa.shit_helmet": "翔盔",
+  "item.kupa.shit_chestplate": "翔甲",
+  "item.kupa.shit_leggings": "翔胫",
+  "item.kupa.shit_boots": "翔鞋",
+  "block.kupa.shit": "翔",
+  "block.kupa.shit_super": "超翔",
+  "block.kupa.toilet": "撤硕儿",
+  "kupa.toilet_paper.args": "尽情享受蹲撤硕儿的时光",
+  "kupa.toilet_paper.args1":"完事儿记得用它擦干净",
+  "kupa.toilet_paper.args2":"<SHIFT+右键>在§g撤硕儿§r上"
+}

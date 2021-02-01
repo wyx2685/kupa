@@ -1,0 +1,12 @@
+{
+  "shitsound": {
+    "subtitle": "shitsound",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "kupa:shitsound",
+        "steam": true
+      }
+    ]
+  }
+}
